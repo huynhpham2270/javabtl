@@ -12,7 +12,7 @@
  Bước 0: Mở Eclipse. [Cài đặt, nếu chưa cài đặt.]
  
  Bước 1:  Nhấp vào Tệp > Import> Git > Project form Git(with smart import) > coppy Url >Past link:
- https://github.com/huynhpham2270/javal.git vào phần Clone URI > Next > Chọn vị trí lưu trữ > Next > Finish
+ https://github.com/huynhpham2270/javabtl.git vào phần Clone URI > Next > Chọn vị trí lưu trữ > Next > Finish
    ![image](https://user-images.githubusercontent.com/132371246/235825642-5d518eec-392d-49af-8929-7946fd74afda.png)
    
 
